@@ -1,0 +1,2 @@
+models/model_epoch_70.pth filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
